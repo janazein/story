@@ -1,1 +1,2 @@
-this course is about git, github and version control
+this course is about git, github and version control and branching
+
